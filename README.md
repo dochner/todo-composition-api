@@ -1,5 +1,5 @@
 # todo-list-app
-[Demo app](https://dochner.github.io/todo-composition-api/)
+[online todo composition api - demo](https://dochner.github.io/todo-composition-api/)
 
 ## Build Setup
 
